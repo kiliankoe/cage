@@ -22,3 +22,11 @@ $ swift run
 ## Credits
 
 Idea completely stolen from [neonichu/hasselhoff](https://github.com/neonichu/hasselhoff).
+
+## Not dirty enough for you?
+
+Try this.
+
+```bash
+curl -sL https://git.io/cage | sh
+```
